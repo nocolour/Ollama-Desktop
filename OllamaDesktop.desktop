@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ollama Desktop
+Comment=Chat with local LLM models using Ollama
+Exec=/home/desmond/CodeProjects/PythonProjects/Ollama/dist/OllamaDesktop
+Icon=/home/desmond/CodeProjects/PythonProjects/Ollama/OllDesk_icon.png
+Terminal=false
+Categories=Office;Chat;Development;
+StartupWMClass=OllamaDesktop
+Keywords=AI;LLM;Chat;Ollama;Assistant;
