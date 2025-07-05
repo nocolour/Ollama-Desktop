@@ -1,4 +1,4 @@
-![OllDesk App Icon](OllDesk_icon.png) # Ollama Desktop Chat
+# Ollama Desktop Chat
 
 ![Ollama Desktop App Interface](OllamaDesktop.png)
 
