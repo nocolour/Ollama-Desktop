@@ -1,8 +1,8 @@
-![OllDesk App Icon](OllDesk_icon.png)
+![OllDesk App Icon](OllDesk_icon.png) # Ollama Desktop Chat
 
 ![Ollama Desktop App Interface](OllamaDesktop.png)
 
-# Ollama Desktop Chat
+
 
 A modern desktop chat application for Ollama AI models built with PySide6.
 
